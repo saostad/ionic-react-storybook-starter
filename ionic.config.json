@@ -1,0 +1,7 @@
+{
+  "name": "ionic-storybook-test01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
